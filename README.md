@@ -39,8 +39,8 @@ set FLASK_APP=app.py  Для Windows
 ```
 ```
 export FLASK_APP=app.py  Для Unix-систем
-
-```shell
+```
+```
 flask run
 ```
 
