@@ -37,7 +37,6 @@ cd project/
 ```
 set FLASK_APP=app.py  Для Windows
 ```
-ИЛИ
 ```
 export FLASK_APP=app.py  Для Unix-систем
 
